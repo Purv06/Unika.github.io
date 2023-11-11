@@ -1,4 +1,5 @@
-        {
+[
+	{
 		"author": "Purvesh Shinde",
 		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Amoled/1673514685067.jpg",
 		"name": "Amoled 1",
@@ -129,4 +130,5 @@
 		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Amoled/IMG_20230118_124920.jpg",
 		"name": "Amoled 22",
 		"collections": "Amoled"
-	},
+	}
+]
