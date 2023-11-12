@@ -1,1 +1,134 @@
-[{"name":"Abstract 1","author":"Droid Craft","url":"https://raw.githubusercontent.com/Purv06/wallrush.github.io/main/1413.jpg","collections":"Abstract"},{"name":"Abstract 3","author":"Droid Craft ","url":"https://raw.githubusercontent.com/Purv06/wallrush.github.io/main/3080.jpg","collections":"Abstract "},{"name":"Abstract 4","author":"Droid craft ","url":"https://raw.githubusercontent.com/Purv06/wallrush.github.io/main/4282.jpg","collections":"Abstract "},{"name":"Abstract 5","author":"Droid Craft ","url":"https://raw.githubusercontent.com/Purv06/wallrush.github.io/main/3455.jpg","collections":"Abstract "},{"name":"Monument 1","author":"Droid Craft ","url":"https://raw.githubusercontent.com/Purv06/wallrush.github.io/main/9091.jpg","collections":"Monument "},{"name":"Monument 4","author":"Droid Craft ","url":"https://raw.githubusercontent.com/Purv06/wallrush.github.io/main/7517.jpg","collections":"Monument "},{"name":"Monument 3","author":"Droid Craft","url":"https://raw.githubusercontent.com/Purv06/wallrush.github.io/main/1930.jpg","collections":"Monument"},{"name":"Monument 2","author":"Droid Craft","url":"https://raw.githubusercontent.com/Purv06/wallrush.github.io/main/9663.jpg","collections":"Monument"},{"name":"Tree 2","author":"Droid Craft ","url":"https://raw.githubusercontent.com/Purv06/wallrush.github.io/main/1625.jpg","collections":"Tree "},{"name":"Robot 9","author":"Droid Craft","url":"https://raw.githubusercontent.com/Purv06/wallrush.github.io/main/6787.jpg","collections":"Robots"},{"name":"Robot 12","author":"Droid Craft","url":"https://raw.githubusercontent.com/Purv06/wallrush.github.io/main/8373.jpg","collections":"Robots"}]
+[
+  {
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/Unika.json/main/Abstract/1673514685067.jpg",
+		"name": "Abstract 1",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/Unika.json/main/Abstract/1673515121465.jpg",
+		"name": "Abstract 2",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/Unika.json/main/Abstract/1673614722102.jpg",
+		"name": "Abstract 3",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/Unika.json/main/Abstract/1673615105607.jpg",
+		"name": "Abstract 4",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/Unika.json/main/Abstract/1673627786136.jpg",
+		"name": "Abstract 5",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/Unika.json/main/Abstract/1673634581778.jpg",
+		"name": "Abstract 6",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/Unika.json/main/Abstract/1673719751546.jpg",
+		"name": "Abstract 7",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/Unika.json/main/Abstract/1673721306604.jpg",
+		"name": "Abstract 8",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/Unika.json/main/Abstract/1673786987026.jpg",
+		"name": "Abstract 9",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/Unika.json/main/Abstract/1673844950011.jpg",
+		"name": "Abstract 10",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/Unika.json/main/Abstract/1673973150685.jpg",
+		"name": "Abstract 11",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/Unika.json/main/Abstract/1673979169293.jpg",
+		"name": "Abstract 12",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/Unika.json/main/Abstract/1673985237258.jpg",
+		"name": "Abstract 13",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/Unika.json/main/Abstract/1674026980166.jpg",
+		"name": "Abstract 14",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/Unika.json/main/Abstract/1674119896610.jpg",
+		"name": "Abstract 15",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/Unika.json/main/Abstract/IMG_20230111_135121.jpg",
+		"name": "Abstract 16",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/Unika.json/main/Abstract/IMG_20230117_235109.jpg",
+		"name": "Abstract 17",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/Unika.json/main/Abstract/IMG_20230117_235300.jpg",
+		"name": "Abstract 18",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/Unika.json/main/Abstract/IMG_20230118_104959.jpg",
+		"name": "Abstract 19",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/Unika.json/main/Abstract/IMG_20230118_105855.jpg",
+		"name": "Abstract 20",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/Unika.json/main/Abstract/IMG_20230118_110231.jpg",
+		"name": "Abstract 21",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/Unika.json/main/Abstract/IMG_20230118_124920.jpg",
+		"name": "Abstract 22",
+		"collections": "Abstract"
+	}
+]
